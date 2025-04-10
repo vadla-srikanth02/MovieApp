@@ -12,13 +12,6 @@
     --font-raleway: "Raleway", sans-serif;
 }
 
-/* body {
-    font-family: var(--font-roboto);
-    background: #780206;
-    background: -webkit-linear-gradient(to right, #061161, #780206);
-    background: linear-gradient(to right, #061161, #780206);
-
-} */
 body {
     font-family: 'Roboto', sans-serif;
     background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
@@ -229,3 +222,13 @@ body {
         margin: 1rem;
     }
 }
+
+
+
+
+
+
+
+
+
+
